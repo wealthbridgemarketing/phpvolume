@@ -1,4 +1,4 @@
-phpvolume
+phpVolume Enterprise Development Platform
 =========
 
-phpVolume
+Visit http://www.phpvolume.com for more information.
